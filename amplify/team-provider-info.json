@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-medexpsamplified-dev-141502-authRole",
+            "UnauthRoleArn": "arn:aws:iam::519252193315:role/amplify-medexpsamplified-dev-141502-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::519252193315:role/amplify-medexpsamplified-dev-141502-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-medexpsamplified-dev-141502-deployment",
+            "UnauthRoleName": "amplify-medexpsamplified-dev-141502-unauthRole",
+            "StackName": "amplify-medexpsamplified-dev-141502",
+            "StackId": "arn:aws:cloudformation:eu-west-1:519252193315:stack/amplify-medexpsamplified-dev-141502/7b8f1ab0-f781-11eb-8b9b-0646d9163f71",
+            "AmplifyAppId": "ddt367481892r"
+        },
+        "categories": {
+            "auth": {
+                "medexpsamplified200bc3cf": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "ddt367481892r",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
